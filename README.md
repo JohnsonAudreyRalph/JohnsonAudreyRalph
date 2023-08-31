@@ -1,5 +1,6 @@
 # 💫About Me :
 🔭 I am currently a senior student majoring in Information Technology.
+
 🌱 I am currently studying at the University of Industry - Thai Nguyen University of Technology.
 
 
